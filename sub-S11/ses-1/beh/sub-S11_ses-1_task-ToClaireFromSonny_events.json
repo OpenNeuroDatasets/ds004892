@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Move": {
+        "Description": "You wanted to move",
+        "Instructions": "Move the gauge up as you feel like you want to move. Move it down as you do not feel an urge to move."
+    },
+    "Agent": {
+        "Description": "Agent",
+        "Instructions": "Rate the degree to which the event is caused by a human agent (including personified animals and machines) versus caused by chance. Move the gauge up the more you think the event was caused by a human agent and down the more it is caused by change. Use the middle of the scale if influences are even or if the cause was neither human nor chance."
+    },
+    "Good": {
+        "Description": "You felt good",
+        "Instructions": "Move the gauge up as you feel good. Move it down as you feel less good."
+    },
+    "Stop": {
+        "Description": "You felt the urge to stop what was happening",
+        "Instructions": "Move the gauge up as you feel the urge to intervene and stop what is happening. Move it down if you do not feel an urge to stop what is happening."
+    },
+    "Calm": {
+        "Description": "Your felt calm",
+        "Instructions": "Calm is the response to quiet and peaceful conditions. For example, you may experience calm when you are in a safe situation. Move the gauge up as you feel more calm. Move it down if you feel more restless. "
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

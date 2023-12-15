@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Anxiety": {
+        "Description": "Anxiety",
+        "Instructions": "Anxiety is a feeling of tension, apprehension, worry, and nervousness. For example, you may experience anxiety when you worry about something that is happening or might happen in the future. Move up the gauge as you feel more anxious. Move it down as you feel less anxious."
+    },
+    "Guilt": {
+        "Description": "Guilt",
+        "Instructions": "Guilt is the response when a person regrets having violated agreements, principles, or values. For example, you may experience guilt when some behaviours or situations violate your own values or moral code. Move the gauge up as you feel guity. Move it down as you feel less guilty. "
+    },
+    "IntenseEmotion": {
+        "Description": "You experienced an intense emotional state",
+        "Instructions": "Move up the gauge as you experience an intense emotional state. Move it down as you do not feel intense emotions."
+    },
+    "Sad": {
+        "Description": "Sadness",
+        "Instructions": "Sadness is the response to the loss of an object or a person to which you are attached. Move the gauge up as you feel more sad. Move it down as you do not feel sad"
+    },
+    "Regard": {
+        "Description": "Regard",
+        "Instructions": "Regard is a feeling of respect and sympathy towards another person. Opposite to regard; contempt is a feeling of moral superiority, disrespect, and aversion towards another person. Move the gauge up as you feel regard. Move it down as you feel contempt. You may use the middle of the scale if you feel neither regard nor contemt."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

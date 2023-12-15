@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S31_ses-3_magnitude1.nii.gz	1821-01-02T12:00:00.000000
+fmap/sub-S31_ses-3_magnitude2.nii.gz	1821-01-02T12:00:00.000000
+fmap/sub-S31_ses-3_phasediff.nii.gz	1821-01-02T12:00:00.000006
+func/sub-S31_ses-3_task-Superhero_bold.nii.gz	1821-01-02T12:02:00.000006
+func/sub-S31_ses-3_task-TearsOfSteel_bold.nii.gz	1821-01-02T12:24:29.000006
+func/sub-S31_ses-3_task-BetweenViewings_bold.nii.gz	1821-01-02T12:39:38.000006
+func/sub-S31_ses-3_task-AfterTheRain_bold.nii.gz	1821-01-02T12:58:26.000006

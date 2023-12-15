@@ -1,0 +1,9 @@
+filename	acq_time
+fmap/sub-S21_ses-2_magnitude1.nii.gz	1821-01-26T09:00:00.000000
+fmap/sub-S21_ses-2_magnitude2.nii.gz	1821-01-26T09:00:00.000000
+fmap/sub-S21_ses-2_phasediff.nii.gz	1821-01-26T09:00:00.000006
+func/sub-S21_ses-2_task-AfterTheRain_bold.nii.gz	1821-01-26T09:02:00.000006
+func/sub-S21_ses-2_task-ToClaireFromSonny_bold.nii.gz	1821-01-26T09:15:36.000006
+func/sub-S21_ses-2_task-TearsOfSteel_bold.nii.gz	1821-01-26T09:27:40.000006
+func/sub-S21_ses-2_task-Chatter_bold.nii.gz	1821-01-26T09:42:49.000006
+func/sub-S21_ses-2_task-LessonLearned_bold.nii.gz	1821-01-26T09:54:54.000006

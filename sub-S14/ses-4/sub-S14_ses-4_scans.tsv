@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S14_ses-4_magnitude1.nii.gz	1821-01-12T09:00:00.000000
+fmap/sub-S14_ses-4_magnitude2.nii.gz	1821-01-12T09:00:00.000000
+fmap/sub-S14_ses-4_phasediff.nii.gz	1821-01-12T09:00:00.000006
+func/sub-S14_ses-4_task-YouAgain_bold.nii.gz	1821-01-12T09:02:00.000006
+func/sub-S14_ses-4_task-Sintel_bold.nii.gz	1821-01-12T09:20:48.000006
+func/sub-S14_ses-4_task-Superhero_bold.nii.gz	1821-01-12T09:38:16.000006
+func/sub-S14_ses-4_task-BigBuckBunny_bold.nii.gz	1821-01-12T10:00:48.000006

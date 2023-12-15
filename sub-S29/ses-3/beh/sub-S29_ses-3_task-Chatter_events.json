@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Regard": {
+        "Description": "Regard",
+        "Instructions": "Regard is a feeling of respect and sympathy towards another person. Opposite to regard; contempt is a feeling of moral superiority, disrespect, and aversion towards another person. Move the gauge up as you feel regard. Move it down as you feel contempt. You may use the middle of the scale if you feel neither regard nor contemt."
+    },
+    "Undo": {
+        "Description": "You wanted to undo what was happening",
+        "Instructions": "Move the gauge up as you feel the desire to undo what is happening. Move it down as you do not feel an urge to undo what is happening."
+    },
+    "SocialNorms": {
+        "Description": "It violated laws or socially accepted norms",
+        "Instructions": "A situation is congruent with social norms,  if what is happening and how people are acting is in line with your cultures expectations regarding social rules and behaviour. Move the gauge up the more the situation is conform with your laws or social norms and down if what is happening violates these ideas. You may use the middle of the scale for situations that are neutral with regards to laws and social norms."
+    },
+    "Controlled": {
+        "Description": "The event was uncontrolled",
+        "Instructions": "Controlled is an event that could have been averted or stopped. Move the gauge up the more controlled you perceive the situation and down as the situation is less controlled i.e. uncontrolled."
+    },
+    "Stop": {
+        "Description": "You felt the urge to stop what was happening",
+        "Instructions": "Move the gauge up as you feel the urge to intervene and stop what is happening. Move it down if you do not feel an urge to stop what is happening."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

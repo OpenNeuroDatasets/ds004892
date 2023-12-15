@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Strong": {
+        "Description": "You felt strong",
+        "Instructions": "Move the gauge up as you feel strong. Move it down as you feel weak. You may use the middle of the scale to indicate feeling neither particularly strong nor weak."
+    },
+    "Surprise": {
+        "Description": "Surprise",
+        "Instructions": "Surprise is the response to sudden expected events. For example, you may experience surprise when you are in unusual situations or someone acts unexpectedly. Move the gauge up as you feel more surprised. Move it down as you feel less surprise."
+    },
+    "Repeat": {
+        "Description": "You wanted the ongoing situation to last or be repeated",
+        "Instructions": "Move the gauge up as you want the ongoing situation to last or be repeated. Move it down if you don't want it to last or be repeated. You may use the middle of the scale if you are indifferent with respects to the situation to last or be repeated. "
+    },
+    "IntenseEmotion": {
+        "Description": "You experienced an intense emotional state",
+        "Instructions": "Move up the gauge as you experience an intense emotional state. Move it down as you do not feel intense emotions."
+    },
+    "Move": {
+        "Description": "You wanted to move",
+        "Instructions": "Move the gauge up as you feel like you want to move. Move it down as you do not feel an urge to move."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

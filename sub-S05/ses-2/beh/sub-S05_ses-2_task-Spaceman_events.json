@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Stop": {
+        "Description": "You felt the urge to stop what was happening",
+        "Instructions": "Move the gauge up as you feel the urge to intervene and stop what is happening. Move it down if you do not feel an urge to stop what is happening."
+    },
+    "Care": {
+        "Description": "You wanted to take care of another person or cause",
+        "Instructions": "Move the gauge up if you want to take care of another person or cause. Move it down as you do not feel the urge to take care of another person or cause."
+    },
+    "Suddenly": {
+        "Description": "The event occurred suddenly",
+        "Instructions": "A sudden event occurred without much lead up or warning, the situation changed from one moment to another. Move the gauge up the more surprising and sudden an event occurred."
+    },
+    "WarmHeartedness": {
+        "Description": "WarmHeartedness",
+        "Instructions": "Warm-hearted is a feeling of sympathy, affection, kindness, and cordiality for situations or people. For example, you may experience warm-hearted when you witness an event that you find very positive and comforting. Move the gauge up as you feel more warm-hearted. Move it down if you do not feel warm-hearted towards the situation or the people in it."
+    },
+    "Love": {
+        "Description": "Love",
+        "Instructions": "Love is a strong feeling of liking some people very much and being attached to them. For example, you may experience love when you like a person, a child, or a lover very much. Move the gauge up as you feel more love. Move it down as you feel less love. "
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

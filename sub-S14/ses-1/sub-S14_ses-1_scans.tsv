@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S14_ses-1_magnitude1.nii.gz	1821-01-12T09:00:00.000000
+fmap/sub-S14_ses-1_magnitude2.nii.gz	1821-01-12T09:00:00.000000
+fmap/sub-S14_ses-1_phasediff.nii.gz	1821-01-12T09:00:00.000006
+anat/sub-S14_ses-1_T1w.nii.gz	1821-01-12T09:02:00.000006
+func/sub-S14_ses-1_task-Rest_bold.nii.gz	1821-01-12T09:10:00.000006
+func/sub-S14_ses-1_task-Chatter_bold.nii.gz	1821-01-12T09:21:58.000006
+func/sub-S14_ses-1_task-ToClaireFromSonny_bold.nii.gz	1821-01-12T09:34:07.000006

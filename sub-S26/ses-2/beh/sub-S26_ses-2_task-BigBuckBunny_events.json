@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Anxiety": {
+        "Description": "Anxiety",
+        "Instructions": "Anxiety is a feeling of tension, apprehension, worry, and nervousness. For example, you may experience anxiety when you worry about something that is happening or might happen in the future. Move up the gauge as you feel more anxious. Move it down as you feel less anxious."
+    },
+    "Lips": {
+        "Description": "You pressed lips together",
+        "Instructions": "You press your lips together. Move the gauge up to indicate pressing your lips together. When your lips are relaxed move the gauge down."
+    },
+    "Pride": {
+        "Description": "Pride",
+        "Instructions": "Pride is a feeling of pleasure or satisfaction with ones achievements. Shame is a feeling of humiliation or distress when a person is conscious of their wrongdoings or faults. Move the gauge up as you feel more proud. Move it down as you feel more ashamed. You may use the middle of the scale if you feel neither pride nor shame."
+    },
+    "Bad": {
+        "Description": "You felt bad",
+        "Instructions": "Move the gauge up as you feel bad. Move it down as you feel less bad."
+    },
+    "Command": {
+        "Description": "You wanted to be in command of others",
+        "Instructions": "Move the gauge up as you want command others. Move it down as you do not feel an urge to be in command of others."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

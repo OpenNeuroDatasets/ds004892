@@ -1,0 +1,9 @@
+filename	acq_time
+fmap/sub-S19_ses-1_magnitude1.nii.gz	1821-01-22T14:30:00.000000
+fmap/sub-S19_ses-1_magnitude2.nii.gz	1821-01-22T14:30:00.000000
+fmap/sub-S19_ses-1_phasediff.nii.gz	1821-01-22T14:30:00.000006
+anat/sub-S19_ses-1_T1w.nii.gz	1821-01-22T14:32:00.000006
+func/sub-S19_ses-1_task-Rest_bold.nii.gz	1821-01-22T14:40:00.000006
+func/sub-S19_ses-1_task-BetweenViewings_bold.nii.gz	1821-01-22T14:51:58.000006
+func/sub-S19_ses-1_task-YouAgain_bold.nii.gz	1821-01-22T15:10:46.000006
+func/sub-S19_ses-1_task-AfterTheRain_bold.nii.gz	1821-01-22T15:29:25.000006
