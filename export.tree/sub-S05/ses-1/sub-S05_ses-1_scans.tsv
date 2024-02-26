@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S05_ses-1_magnitude1.nii.gz	1820-11-23T10:30:00.000000
-fmap/sub-S05_ses-1_magnitude2.nii.gz	1820-11-23T10:30:00.000000
-fmap/sub-S05_ses-1_phasediff.nii.gz	1820-11-23T10:30:00.000006
-anat/sub-S05_ses-1_T1w.nii.gz	1820-11-23T10:32:00.000006
-func/sub-S05_ses-1_task-Rest_bold.nii.gz	1820-11-23T10:40:00.000006
-func/sub-S05_ses-1_task-TearsOfSteel_bold.nii.gz	1820-11-23T10:51:58.000006
-func/sub-S05_ses-1_task-BigBuckBunny_bold.nii.gz	1820-11-23T11:07:07.000006
-func/sub-S05_ses-1_task-YouAgain_bold.nii.gz	1820-11-23T11:20:37.000006

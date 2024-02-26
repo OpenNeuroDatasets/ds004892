@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S20_ses-3_magnitude1.nii.gz	1821-01-22T16:00:00.000000
-fmap/sub-S20_ses-3_magnitude2.nii.gz	1821-01-22T16:00:00.000000
-fmap/sub-S20_ses-3_phasediff.nii.gz	1821-01-22T16:00:00.000006
-func/sub-S20_ses-3_task-AfterTheRain_bold.nii.gz	1821-01-22T16:02:00.000006
-func/sub-S20_ses-3_task-BetweenViewings_bold.nii.gz	1821-01-22T16:15:36.000006
-func/sub-S20_ses-3_task-TearsOfSteel_bold.nii.gz	1821-01-22T16:34:24.000006
-func/sub-S20_ses-3_task-LessonLearned_bold.nii.gz	1821-01-22T16:49:33.000006

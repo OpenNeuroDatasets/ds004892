@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S23_ses-3_magnitude1.nii.gz	1821-02-01T09:00:00.000000
-fmap/sub-S23_ses-3_magnitude2.nii.gz	1821-02-01T09:00:00.000000
-fmap/sub-S23_ses-3_phasediff.nii.gz	1821-02-01T09:00:00.000006
-func/sub-S23_ses-3_task-Spaceman_bold.nii.gz	1821-02-01T09:02:00.000006
-func/sub-S23_ses-3_task-ToClaireFromSonny_bold.nii.gz	1821-02-01T09:20:46.000006
-func/sub-S23_ses-3_task-BigBuckBunny_bold.nii.gz	1821-02-01T09:32:49.000006
-func/sub-S23_ses-3_task-YouAgain_bold.nii.gz	1821-02-01T09:46:20.000006

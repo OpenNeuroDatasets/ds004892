@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S02_ses-4_magnitude1.nii.gz	1820-11-09T09:00:00.000000
-fmap/sub-S02_ses-4_magnitude2.nii.gz	1820-11-09T09:00:00.000000
-fmap/sub-S02_ses-4_phasediff.nii.gz	1820-11-09T09:00:00.000006
-func/sub-S02_ses-4_task-Spaceman_bold.nii.gz	1820-11-09T09:02:00.000006
-func/sub-S02_ses-4_task-Sintel_bold.nii.gz	1820-11-09T09:20:07.000006
-func/sub-S02_ses-4_task-ToClaireFromSonny_bold.nii.gz	1820-11-09T09:37:30.000006
-func/sub-S02_ses-4_task-FirstBite_bold.nii.gz	1820-11-09T09:49:33.000006

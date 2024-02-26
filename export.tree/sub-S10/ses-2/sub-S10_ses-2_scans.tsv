@@ -1,7 +1,0 @@
-filename	acq_time
-fmap/sub-S10_ses-2_magnitude1.nii.gz	1820-12-29T10:30:00.000000
-fmap/sub-S10_ses-2_magnitude2.nii.gz	1820-12-29T10:30:00.000000
-fmap/sub-S10_ses-2_phasediff.nii.gz	1820-12-29T10:30:00.000006
-func/sub-S10_ses-2_task-Payload_bold.nii.gz	1820-12-29T10:32:00.000006
-func/sub-S10_ses-2_task-Sintel_bold.nii.gz	1820-12-29T10:54:18.000006
-func/sub-S10_ses-2_task-BetweenViewings_bold.nii.gz	1820-12-29T11:11:43.000006

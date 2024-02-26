@@ -1,7 +1,0 @@
-filename	acq_time
-fmap/sub-S19_ses-3_magnitude1.nii.gz	1821-01-22T14:30:00.000000
-fmap/sub-S19_ses-3_magnitude2.nii.gz	1821-01-22T14:30:00.000000
-fmap/sub-S19_ses-3_phasediff.nii.gz	1821-01-22T14:30:00.000006
-func/sub-S19_ses-3_task-Payload_bold.nii.gz	1821-01-22T14:32:00.000006
-func/sub-S19_ses-3_task-ToClaireFromSonny_bold.nii.gz	1821-01-22T14:54:09.000006
-func/sub-S19_ses-3_task-LessonLearned_bold.nii.gz	1821-01-22T15:06:12.000006
