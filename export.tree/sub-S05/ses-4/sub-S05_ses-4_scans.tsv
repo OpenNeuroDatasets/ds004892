@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S05_ses-4_magnitude1.nii.gz	1820-11-23T10:30:00.000000
+fmap/sub-S05_ses-4_magnitude2.nii.gz	1820-11-23T10:30:00.000000
+fmap/sub-S05_ses-4_phasediff.nii.gz	1820-11-23T10:30:00.000006
+func/sub-S05_ses-4_task-Payload_bold.nii.gz	1820-11-23T10:32:00.000006
+func/sub-S05_ses-4_task-BetweenViewings_bold.nii.gz	1820-11-23T10:54:18.000006
+func/sub-S05_ses-4_task-AfterTheRain_bold.nii.gz	1820-11-23T11:13:08.000006
+func/sub-S05_ses-4_task-TheSecretNumber_bold.nii.gz	1820-11-23T11:26:56.000006

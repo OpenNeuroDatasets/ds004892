@@ -1,0 +1,10 @@
+filename	acq_time
+fmap/sub-S11_ses-1_magnitude1.nii.gz	1821-01-01T13:00:00.000000
+fmap/sub-S11_ses-1_magnitude2.nii.gz	1821-01-01T13:00:00.000000
+fmap/sub-S11_ses-1_phasediff.nii.gz	1821-01-01T13:00:00.000006
+anat/sub-S11_ses-1_T1w.nii.gz	1821-01-01T13:02:00.000006
+func/sub-S11_ses-1_task-Rest_bold.nii.gz	1821-01-01T13:10:00.000006
+func/sub-S11_ses-1_task-BetweenViewings_bold.nii.gz	1821-01-01T13:21:58.000006
+func/sub-S11_ses-1_task-BigBuckBunny_bold.nii.gz	1821-01-01T13:40:46.000006
+func/sub-S11_ses-1_task-ToClaireFromSonny_bold.nii.gz	1821-01-01T13:54:17.000006
+func/sub-S11_ses-1_task-Chatter_bold.nii.gz	1821-01-01T14:06:20.000006

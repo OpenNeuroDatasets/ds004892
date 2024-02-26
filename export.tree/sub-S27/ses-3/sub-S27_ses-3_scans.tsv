@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S27_ses-3_magnitude1.nii.gz	1821-02-08T09:00:00.000000
+fmap/sub-S27_ses-3_magnitude2.nii.gz	1821-02-08T09:00:00.000000
+fmap/sub-S27_ses-3_phasediff.nii.gz	1821-02-08T09:00:00.000006
+func/sub-S27_ses-3_task-BetweenViewings_bold.nii.gz	1821-02-08T09:02:00.000006
+func/sub-S27_ses-3_task-YouAgain_bold.nii.gz	1821-02-08T09:20:48.000006
+func/sub-S27_ses-3_task-TheSecretNumber_bold.nii.gz	1821-02-08T09:39:26.000006

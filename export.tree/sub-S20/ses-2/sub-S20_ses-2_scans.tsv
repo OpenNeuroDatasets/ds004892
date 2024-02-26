@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S20_ses-2_magnitude1.nii.gz	1821-01-23T16:00:00.000000
+fmap/sub-S20_ses-2_magnitude2.nii.gz	1821-01-23T16:00:00.000000
+fmap/sub-S20_ses-2_phasediff.nii.gz	1821-01-23T16:00:00.000006
+func/sub-S20_ses-2_task-Spaceman_bold.nii.gz	1821-01-23T16:02:00.000006
+func/sub-S20_ses-2_task-FirstBite_bold.nii.gz	1821-01-23T16:20:46.000006
+func/sub-S20_ses-2_task-Chatter_bold.nii.gz	1821-01-23T16:36:05.000006
+func/sub-S20_ses-2_task-Sintel_bold.nii.gz	1821-01-23T16:48:10.000006

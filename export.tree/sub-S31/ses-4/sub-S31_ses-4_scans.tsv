@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S31_ses-4_magnitude1.nii.gz	1821-01-02T12:00:00.000000
+fmap/sub-S31_ses-4_magnitude2.nii.gz	1821-01-02T12:00:00.000000
+fmap/sub-S31_ses-4_phasediff.nii.gz	1821-01-02T12:00:00.000006
+func/sub-S31_ses-4_task-TheSecretNumber_bold.nii.gz	1821-01-02T12:02:00.000006
+func/sub-S31_ses-4_task-YouAgain_bold.nii.gz	1821-01-02T12:20:26.000006
+func/sub-S31_ses-4_task-Sintel_bold.nii.gz	1821-01-02T12:39:07.000006

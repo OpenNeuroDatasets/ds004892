@@ -1,0 +1,260 @@
+2022-11-23T11:50:17	phys2bids.phys2bids	INFO    	Currently running phys2bids version 2.6.2
+2022-11-23T11:50:17	phys2bids.phys2bids	INFO    	Input file is S04_2.acq
+2022-11-23T11:50:17	phys2bids.utils	INFO    	File extension is .acq
+2022-11-23T11:50:17	phys2bids.utils	WARNING 	If both acq and txt files exist in the path, acq will be selected.
+2022-11-23T11:50:17	phys2bids.phys2bids	INFO    	Reading the file /Users/fournierraphael/PycharmProjects/pythonProject2/S04_2.acq
+2022-11-23T11:50:19	phys2bids.io	INFO    	00. Channel PPG - PPG100C: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	01. Channel EDA - EDA100C-MRI: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	02. Channel RESP: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	03. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	04. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	05. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	06. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	07. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	08. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	09. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.io	INFO    	10. Channel Digital input: 4870472 samples, 1000.0 samples/sec, loaded: True
+2022-11-23T11:50:19	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:19	phys2bids.phys2bids	INFO    	Checking that units of measure are BIDS compatible
+2022-11-23T11:50:19	phys2bids.bids	WARNING 	The given unit cm H20 does not have aliases, passing it as is
+2022-11-23T11:50:19	phys2bids.phys2bids	INFO    	Reading infos
+2022-11-23T11:50:19	phys2bids.physio_obj	INFO    	
+------------------------------------------------
+File S04_2.acq contains:
+01. PPG - PPG100C; sampled at 1000.0 Hz
+02. EDA - EDA100C-MRI; sampled at 1000.0 Hz
+03. RESP; sampled at 1000.0 Hz
+04. Digital input; sampled at 1000.0 Hz
+05. Digital input; sampled at 1000.0 Hz
+06. Digital input; sampled at 1000.0 Hz
+07. Digital input; sampled at 1000.0 Hz
+08. Digital input; sampled at 1000.0 Hz
+09. Digital input; sampled at 1000.0 Hz
+10. Digital input; sampled at 1000.0 Hz
+11. Digital input; sampled at 1000.0 Hz
+------------------------------------------------
+
+2022-11-23T11:50:22	phys2bids.viz	INFO    	saving channel plot to /Users/fournierraphael/Documents/Physiological_data/Film_data/BIDS_files/code/conversion/S04_2.png
+2022-11-23T11:50:25	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:25	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:30	phys2bids.physio_obj	INFO    	The number of timepoints according to the std_thr method is 2838. The computed threshold is 0.0479
+2022-11-23T11:50:30	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:30	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:50:30	phys2bids.slice4phys	WARNING 	
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+phys2bids will split the input file according to the given -tr and -ntp arguments
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+2022-11-23T11:50:30	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:30	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:36	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 2838
+2022-11-23T11:50:36	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:36	phys2bids.physio_obj	WARNING 	Found 2828 timepoints more than expected!
+Assuming extra timepoints are at the end (try again with a more liberal thr)
+2022-11-23T11:50:36	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 0.0 seconds and 712.376 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:36	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:36	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:36	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:41	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 2828
+2022-11-23T11:50:41	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:41	phys2bids.physio_obj	WARNING 	Found 2745 timepoints more than expected!
+Assuming extra timepoints are at the end (try again with a more liberal thr)
+2022-11-23T11:50:41	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 752.444 seconds and 878.344 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:41	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:41	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:41	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:45	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 2745
+2022-11-23T11:50:45	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:45	phys2bids.physio_obj	WARNING 	Found 2734 timepoints more than expected!
+Assuming extra timepoints are at the end (try again with a more liberal thr)
+2022-11-23T11:50:45	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 943.149 seconds and 975.449 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:45	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:45	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:45	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:50	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 2734
+2022-11-23T11:50:50	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:50	phys2bids.physio_obj	WARNING 	Found 2261 timepoints more than expected!
+Assuming extra timepoints are at the end (try again with a more liberal thr)
+2022-11-23T11:50:50	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 1114.703 seconds and 1747.603 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:50	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:50	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:50	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:53	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 2261
+2022-11-23T11:50:53	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:53	phys2bids.physio_obj	WARNING 	Found 1490 timepoints more than expected!
+Assuming extra timepoints are at the end (try again with a more liberal thr)
+2022-11-23T11:50:53	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 1788.808 seconds and 2809.108 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:53	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:53	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:53	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:55	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 1490
+2022-11-23T11:50:55	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:55	phys2bids.physio_obj	WARNING 	Found 713 timepoints more than expected!
+Assuming extra timepoints are at the end (try again with a more liberal thr)
+2022-11-23T11:50:55	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 2851.407 seconds and 3879.507 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:56	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:56	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:56	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 713
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:50:57	phys2bids.slice4phys	INFO    	
+--------------------------------------------------------------
+Slicing between 3902.122 seconds and 4847.022 seconds
+--------------------------------------------------------------
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 10
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:57	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 83
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 11
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 473
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:50:58	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:51:00	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 771
+2022-11-23T11:51:00	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:51:00	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:51:00	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:51:00	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:51:00	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:51:01	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 777
+2022-11-23T11:51:01	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:51:01	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:51:01	phys2bids.physio_obj	INFO    	Trigger channel name is not in our trigger channel name alias list. Please make sure you choose the proper channel.
+2022-11-23T11:51:01	phys2bids.physio_obj	INFO    	Counting trigger points
+2022-11-23T11:51:01	phys2bids.physio_obj	INFO    	The trigger is in channel 11
+2022-11-23T11:51:02	phys2bids.physio_obj	INFO    	The number of timepoints found with the manual threshold of 0.0479 is 713
+2022-11-23T11:51:02	phys2bids.physio_obj	INFO    	Checking number of timepoints
+2022-11-23T11:51:02	phys2bids.physio_obj	INFO    	Found just the right amount of timepoints!
+2022-11-23T11:51:02	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:04	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:04	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:05	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:06	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:09	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:11	phys2bids.viz	INFO    	Plot trigger
+2022-11-23T11:51:13	phys2bids.phys2bids	INFO    	Found 7 different takes in input!
+2022-11-23T11:51:13	phys2bids.phys2bids	INFO    	Preparing 7 output files.
+2022-11-23T11:51:13	phys2bids.phys2bids	INFO    	Preparing BIDS output using /Users/fournierraphael/PycharmProjects/pythonProject2/Heurist_phys.py
+2022-11-23T11:51:13	phys2bids.bids	INFO    	Updating participants.tsv ...
+2022-11-23T11:51:13	phys2bids.bids	INFO    	phys2bids found participants.tsv. Updating if needed...
+2022-11-23T11:51:13	phys2bids.phys2bids	INFO    	Exporting files for take 1 freq 1000.0
+2022-11-23T11:51:18	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    10
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 690.3761 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+
+2022-11-23T11:51:18	phys2bids.phys2bids	INFO    	Exporting files for take 2 freq 1000.0
+2022-11-23T11:51:19	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    83
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 9.0010 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+
+2022-11-23T11:51:19	phys2bids.phys2bids	INFO    	Exporting files for take 3 freq 1000.0
+2022-11-23T11:51:19	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    11
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 9.0020 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+
+2022-11-23T11:51:19	phys2bids.phys2bids	INFO    	Exporting files for take 4 freq 1000.0
+2022-11-23T11:51:23	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    473
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 9.0030 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+
+2022-11-23T11:51:23	phys2bids.phys2bids	INFO    	Exporting files for take 5 freq 1000.0
+2022-11-23T11:51:29	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    771
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 9.0040 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+
+2022-11-23T11:51:30	phys2bids.phys2bids	INFO    	Exporting files for take 6 freq 1000.0
+2022-11-23T11:51:36	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    777
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 9.0050 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+
+2022-11-23T11:51:36	phys2bids.phys2bids	INFO    	Exporting files for take 7 freq 1000.0
+2022-11-23T11:51:43	phys2bids.phys2bids	INFO    	
+------------------------------------------------
+Filename:            S04_2.acq
+
+Timepoints expected: [10, 83, 11, 473, 771, 777, 713]
+Timepoints found:    713
+Sampling Frequency:  1000.0 Hz
+Sampling started at: 9.0060 s
+Tip: Time 0 is the time of first trigger
+------------------------------------------------
+

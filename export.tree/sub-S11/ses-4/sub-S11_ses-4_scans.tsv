@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S11_ses-4_magnitude1.nii.gz	1821-01-01T13:00:00.000000
+fmap/sub-S11_ses-4_magnitude2.nii.gz	1821-01-01T13:00:00.000000
+fmap/sub-S11_ses-4_phasediff.nii.gz	1821-01-01T13:00:00.000006
+func/sub-S11_ses-4_task-Spaceman_bold.nii.gz	1821-01-01T13:02:00.000006
+func/sub-S11_ses-4_task-Sintel_bold.nii.gz	1821-01-01T13:20:47.000006
+func/sub-S11_ses-4_task-Superhero_bold.nii.gz	1821-01-01T13:38:10.000006

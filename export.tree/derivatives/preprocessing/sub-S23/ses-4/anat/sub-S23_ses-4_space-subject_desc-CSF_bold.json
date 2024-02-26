@@ -1,0 +1,5 @@
+{
+    "SkullStripped": "true",
+    "source": "fMRIstudy:derivatives/sub-00/ses-0/sub-00_ses-0_space-subject_desc-anat_bold.nii.gz",
+    "description": "We used fsls FAST to segment the anatomical image into three tissue classes"
+}

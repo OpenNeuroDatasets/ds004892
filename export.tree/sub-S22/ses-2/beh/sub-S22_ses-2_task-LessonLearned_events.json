@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Support": {
+        "Description": "You wanted someone to be there to provide help or support",
+        "Instructions": "Move the gauge up if you want someone to be there to provide help or support. Move it down as you do not feel the desire for someone to be there for support or help. You may use the middle of the scale if you are indifferent with regards to someone being there to provide help and support."
+    },
+    "Muscle": {
+        "Description": "You experienced muscle tensions (whole body)",
+        "Instructions": "Move the gauge up as you experience muscle tensions in your whole body. Move it down as you experience your muscles relaxing. You may use the middle of the scale for what you perceive as your normal level of muscle tension."
+    },
+    "Frown": {
+        "Description": "You frowned",
+        "Instructions": "Move the gauge up as you observe yourself frowning. Move it down as you are not frowning. "
+    },
+    "Disgust": {
+        "Description": "Disgust",
+        "Instructions": "Disgust is the response to sights, situations, and actions that we do not accept. For example, you may experience disgust when someone behaves in a way that you disapprove. Move the gauge up as you feel disgusted. Move it down as you do not feel disgusted. "
+    },
+    "PleasantOther": {
+        "Description": "It was unpleasant for somebody else",
+        "Instructions": "Pleasant for somebody else discribes a situation that you perceive as generally positive for somebody else. Move the gauge up the more pleasant you perceive the situation is for somebody else and down as the situation is more unpleasant for them. You may use the middle of the scale for situation that are neither positive or negative. If you find conflict with different characters in the movie focus on the character you feel most invested in."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

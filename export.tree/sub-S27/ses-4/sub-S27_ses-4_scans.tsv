@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S27_ses-4_magnitude1.nii.gz	1821-02-08T09:00:00.000000
+fmap/sub-S27_ses-4_magnitude2.nii.gz	1821-02-08T09:00:00.000000
+fmap/sub-S27_ses-4_phasediff.nii.gz	1821-02-08T09:00:00.000006
+func/sub-S27_ses-4_task-AfterTheRain_bold.nii.gz	1821-02-08T09:02:00.000006
+func/sub-S27_ses-4_task-Spaceman_bold.nii.gz	1821-02-08T09:15:38.000006
+func/sub-S27_ses-4_task-Payload_bold.nii.gz	1821-02-08T09:34:24.000006
+func/sub-S27_ses-4_task-BigBuckBunny_bold.nii.gz	1821-02-08T09:56:33.000006

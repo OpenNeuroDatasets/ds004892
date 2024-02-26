@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Alert": {
+        "Description": "You felt tired",
+        "Instructions": "Move the gauge up as you feel alert and attentive. Move it down as you feel tired. You may use the middle of the scale to describe a level of alertnes that is 'normal' for you."
+    },
+    "GoalsOther": {
+        "Description": "It was important and relevant for the goals or needs of somebody",
+        "Instructions": "Important and relevant for the goals or needs of somebody is a situation that will help somebody achieve their wants and needs. Move the gauge up in situations that are important and relevant for somebodys goals and down for situations that are irrelevant. If you find conflict with different characters in the movie focus on the character you feel most invested in."
+    },
+    "Repeat": {
+        "Description": "You wanted the ongoing situation to last or be repeated",
+        "Instructions": "Move the gauge up as you want the ongoing situation to last or be repeated. Move it down if you don't want it to last or be repeated. You may use the middle of the scale if you are indifferent with respects to the situation to last or be repeated. "
+    },
+    "PleasantSelf": {
+        "Description": "It was unpleasant for you",
+        "Instructions": "Pleasant discribes a situation that was generally positive for you. Move the gauge up the more pleasant you perceive the situation and down as the situation is more unpleasant. You may use the middle of the scale for situation that are neither positive or negative."
+    },
+    "Tackle": {
+        "Description": "You felt like tackling the situation and do something",
+        "Instructions": "Move the gauge up if you feel like tackling the situation and doing something. Move it down as you do not feel an urge to takle the situation."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

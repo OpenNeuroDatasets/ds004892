@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S16_ses-3_magnitude1.nii.gz	1821-01-22T11:30:00.000000
+fmap/sub-S16_ses-3_magnitude2.nii.gz	1821-01-22T11:30:00.000000
+fmap/sub-S16_ses-3_phasediff.nii.gz	1821-01-22T11:30:00.000006
+func/sub-S16_ses-3_task-Payload_bold.nii.gz	1821-01-22T11:32:00.000006
+func/sub-S16_ses-3_task-Chatter_bold.nii.gz	1821-01-22T11:54:10.000006
+func/sub-S16_ses-3_task-FirstBite_bold.nii.gz	1821-01-22T12:06:17.000006
+func/sub-S16_ses-3_task-LessonLearned_bold.nii.gz	1821-01-22T12:21:36.000006
