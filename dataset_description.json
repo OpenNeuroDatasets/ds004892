@@ -14,13 +14,23 @@
         {
             "Name": "phys2bids",
             "Version": "2.8.0",
-            "CodeURL": "https://github.com/physiopy/phys2bids"        	
+            "CodeURL": "https://github.com/physiopy/phys2bids"
         }
     ],
     "BIDSVersion": "1.7.0",
     "DatasetType": "raw",
-    "License": "Creative Commons CC0",
-    "Authors": ["Elenor Morgenroth","Stefano Moia","Laura Vilaclara","Raphael Fournier","Michal Muszynski","Maria Ploumitsakou","Marina Almato Bellavista","Patrik Vuilleumier","Dimitri Van De Ville"],
+    "License": "CC0",
+    "Authors": [
+        "Elenor Morgenroth",
+        "Stefano Moia",
+        "Laura Vilaclara",
+        "Raphael Fournier",
+        "Michal Muszynski",
+        "Maria Ploumitsakou",
+        "Marina Almato Bellavista",
+        "Patrik Vuilleumier",
+        "Dimitri Van De Ville"
+    ],
     "HowToAcknowledge": "Morgenroth, E., Moia, S., Vilaclara, L., Fournier, R., Muszynski, M., Ploumitsakou, M., Almato Bellavista, M., Vuilleumier, P., Van De Ville, D. Emo-FilM: A multimodal neuroimaging dataset for studying emotion processes during film watching. (in prep)",
     "Funding": [
         "This work was supported by Swiss National Science Foundation Sinergia grant CRSII5_180319"
@@ -32,5 +42,5 @@
         "To be completed",
         "https://github.com/Donders-Institute/bidscoin"
     ],
-    "DatasetDOI": "OPTIONAL. The Document Object Identifier of the dataset (not the corresponding paper)"
+    "DatasetDOI": "doi:10.18112/openneuro.ds004892.v1.0.0"
 }
