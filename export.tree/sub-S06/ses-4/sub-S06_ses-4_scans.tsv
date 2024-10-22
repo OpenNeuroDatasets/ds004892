@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S06_ses-4_magnitude1.nii.gz	1820-12-14T09:00:00.000000
-fmap/sub-S06_ses-4_magnitude2.nii.gz	1820-12-14T09:00:00.000000
-fmap/sub-S06_ses-4_phasediff.nii.gz	1820-12-14T09:00:00.000006
-func/sub-S06_ses-4_task-LessonLearned_bold.nii.gz	1820-12-14T09:02:00.000006
-func/sub-S06_ses-4_task-TheSecretNumber_bold.nii.gz	1820-12-14T09:18:28.000006
-func/sub-S06_ses-4_task-FirstBite_bold.nii.gz	1820-12-14T09:36:53.000006
-func/sub-S06_ses-4_task-YouAgain_bold.nii.gz	1820-12-14T09:52:12.000006
-func/sub-S06_ses-4_task-TearsOfSteel_bold.nii.gz	1820-12-14T10:10:50.000006

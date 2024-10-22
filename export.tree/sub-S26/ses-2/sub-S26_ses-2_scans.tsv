@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S26_ses-2_magnitude1.nii.gz	1821-01-06T10:30:00.000000
-fmap/sub-S26_ses-2_magnitude2.nii.gz	1821-01-06T10:30:00.000000
-fmap/sub-S26_ses-2_phasediff.nii.gz	1821-01-06T10:30:00.000006
-func/sub-S26_ses-2_task-AfterTheRain_bold.nii.gz	1821-01-06T10:32:00.000006
-func/sub-S26_ses-2_task-BigBuckBunny_bold.nii.gz	1821-01-06T10:45:36.000006
-func/sub-S26_ses-2_task-LessonLearned_bold.nii.gz	1821-01-06T10:59:06.000006
-func/sub-S26_ses-2_task-Superhero_bold.nii.gz	1821-01-06T11:15:34.000006

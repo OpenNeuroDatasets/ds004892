@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S02_ses-2_magnitude1.nii.gz	1820-11-11T09:00:00.000000
-fmap/sub-S02_ses-2_magnitude2.nii.gz	1820-11-11T09:00:00.000000
-fmap/sub-S02_ses-2_phasediff.nii.gz	1820-11-11T09:00:00.000006
-func/sub-S02_ses-2_task-TheSecretNumber_bold.nii.gz	1820-11-11T09:02:00.000006
-func/sub-S02_ses-2_task-Chatter_bold.nii.gz	1820-11-11T09:20:26.000006
-func/sub-S02_ses-2_task-BigBuckBunny_bold.nii.gz	1820-11-11T09:32:33.000006
-func/sub-S02_ses-2_task-Superhero_bold.nii.gz	1820-11-11T09:46:09.000006

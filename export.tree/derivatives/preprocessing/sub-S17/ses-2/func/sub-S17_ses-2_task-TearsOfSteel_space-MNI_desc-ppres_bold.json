@@ -1,5 +1,0 @@
-{
-    "SkullStripped": "true",
-    "source": "fMRIstudy:derivatives/sub-00/ses-0/sub-00_ses-0_task-FILM_space-orig_desc-prepro_bold.nii.gz",
-    "description": "We used FAST (Zhang et al., 2001) segmentation to identify tissue classes at subject level and regress WM and CSF from the preprocessed data together with the six motion regressors. The functional data was further coregistered to the MNI standard template."
-}

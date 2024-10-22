@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S03_ses-3_magnitude1.nii.gz	1820-11-09T10:30:00.000000
-fmap/sub-S03_ses-3_magnitude2.nii.gz	1820-11-09T10:30:00.000000
-fmap/sub-S03_ses-3_phasediff.nii.gz	1820-11-09T10:30:00.000006
-func/sub-S03_ses-3_task-AfterTheRain_bold.nii.gz	1820-11-09T10:32:00.000006
-func/sub-S03_ses-3_task-FirstBite_bold.nii.gz	1820-11-09T10:45:38.000006
-func/sub-S03_ses-3_task-TearsOfSteel_bold.nii.gz	1820-11-09T11:00:57.000006
-func/sub-S03_ses-3_task-Sintel_bold.nii.gz	1820-11-09T11:16:06.000006

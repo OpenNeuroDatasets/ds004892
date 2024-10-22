@@ -1,5 +1,0 @@
-{
-    "SkullStripped": "true",
-    "source": "fMRIstudy:rawdata/sub-00/ses-0/func/sub-00_ses-0_task-FILM_bold.nii.gz",
-    "description": "fMRI data processing was conducted using FEAT (FMRI Expert Analysis Tool) Version 6.00, part of FSL (FMRIBs Software Library, www.fmrib.ox.ac.uk/fsl). Registration to high-resolution structural, standard space and the first functional volume of each subject was carried out using FLIRT (Jenkinson and Smith; 2001; Jenkinson et al., 2002). The following preprocessing pipeline was applied; motion correction using MCFLIRT (Jenkinson et al., 2002), non-brain removal using BET (Smith, 2002), spatial smoothing using a Gaussian kernel of FWHM 6.0 mm; grand-mean intensity normalisation of the entire 4D dataset by a single multiplicative factor; high pass temporal filtering (Gaussian-weighted least-squares straight line fitting, with sigma = 50 s)."
-}

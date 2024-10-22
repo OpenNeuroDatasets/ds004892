@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S04_ses-3_magnitude1.nii.gz	1820-11-23T09:00:00.000000
-fmap/sub-S04_ses-3_magnitude2.nii.gz	1820-11-23T09:00:00.000000
-fmap/sub-S04_ses-3_phasediff.nii.gz	1820-11-23T09:00:00.000006
-func/sub-S04_ses-3_task-Chatter_bold.nii.gz	1820-11-23T09:02:00.000006
-func/sub-S04_ses-3_task-LessonLearned_bold.nii.gz	1820-11-23T09:14:07.000006
-func/sub-S04_ses-3_task-BigBuckBunny_bold.nii.gz	1820-11-23T09:30:35.000006
-func/sub-S04_ses-3_task-AfterTheRain_bold.nii.gz	1820-11-23T09:44:05.000006

@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S20_ses-1_magnitude1.nii.gz	1821-01-22T16:00:00.000000
-fmap/sub-S20_ses-1_magnitude2.nii.gz	1821-01-22T16:00:00.000000
-fmap/sub-S20_ses-1_phasediff.nii.gz	1821-01-22T16:00:00.000006
-anat/sub-S20_ses-1_T1w.nii.gz	1821-01-22T16:02:00.000006
-func/sub-S20_ses-1_task-Rest_bold.nii.gz	1821-01-22T16:10:00.000006
-func/sub-S20_ses-1_task-ToClaireFromSonny_bold.nii.gz	1821-01-22T16:21:58.000006
-func/sub-S20_ses-1_task-Superhero_bold.nii.gz	1821-01-22T16:34:01.000006
-func/sub-S20_ses-1_task-TheSecretNumber_bold.nii.gz	1821-01-22T16:56:29.000006

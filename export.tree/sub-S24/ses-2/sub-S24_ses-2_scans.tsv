@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S24_ses-2_magnitude1.nii.gz	1821-02-03T10:30:00.000000
-fmap/sub-S24_ses-2_magnitude2.nii.gz	1821-02-03T10:30:00.000000
-fmap/sub-S24_ses-2_phasediff.nii.gz	1821-02-03T10:30:00.000006
-func/sub-S24_ses-2_task-LessonLearned_bold.nii.gz	1821-02-03T10:32:00.000006
-func/sub-S24_ses-2_task-TearsOfSteel_bold.nii.gz	1821-02-03T10:48:33.000006
-func/sub-S24_ses-2_task-Spaceman_bold.nii.gz	1821-02-03T11:03:44.000006
-func/sub-S24_ses-2_task-BetweenViewings_bold.nii.gz	1821-02-03T11:22:40.000006

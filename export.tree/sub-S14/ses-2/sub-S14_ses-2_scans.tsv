@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S14_ses-2_magnitude1.nii.gz	1821-01-13T09:00:00.000000
-fmap/sub-S14_ses-2_magnitude2.nii.gz	1821-01-13T09:00:00.000000
-fmap/sub-S14_ses-2_phasediff.nii.gz	1821-01-13T09:00:00.000006
-func/sub-S14_ses-2_task-TheSecretNumber_bold.nii.gz	1821-01-13T09:02:00.000006
-func/sub-S14_ses-2_task-Spaceman_bold.nii.gz	1821-01-13T09:20:28.000006
-func/sub-S14_ses-2_task-BetweenViewings_bold.nii.gz	1821-01-13T09:39:15.000006
-func/sub-S14_ses-2_task-LessonLearned_bold.nii.gz	1821-01-13T09:58:09.000006
