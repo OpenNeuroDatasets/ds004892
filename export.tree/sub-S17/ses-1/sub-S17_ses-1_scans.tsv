@@ -1,0 +1,9 @@
+filename	acq_time
+fmap/sub-S17_ses-1_magnitude1.nii.gz	1821-01-22T10:30:00.000000
+fmap/sub-S17_ses-1_magnitude2.nii.gz	1821-01-22T10:30:00.000000
+fmap/sub-S17_ses-1_phasediff.nii.gz	1821-01-22T10:30:00.000006
+anat/sub-S17_ses-1_T1w.nii.gz	1821-01-22T10:32:00.000006
+func/sub-S17_ses-1_task-Rest_bold.nii.gz	1821-01-22T10:40:00.000006
+func/sub-S17_ses-1_task-Spaceman_bold.nii.gz	1821-01-22T10:51:58.000006
+func/sub-S17_ses-1_task-YouAgain_bold.nii.gz	1821-01-22T11:10:44.000006
+func/sub-S17_ses-1_task-Chatter_bold.nii.gz	1821-01-22T11:29:22.000006

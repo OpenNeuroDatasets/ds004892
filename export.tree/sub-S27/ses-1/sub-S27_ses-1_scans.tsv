@@ -1,0 +1,9 @@
+filename	acq_time
+fmap/sub-S27_ses-1_magnitude1.nii.gz	1821-02-08T09:00:00.000000
+fmap/sub-S27_ses-1_magnitude2.nii.gz	1821-02-08T09:00:00.000000
+fmap/sub-S27_ses-1_phasediff.nii.gz	1821-02-08T09:00:00.000006
+anat/sub-S27_ses-1_T1w.nii.gz	1821-02-08T09:02:00.000006
+func/sub-S27_ses-1_task-Rest_bold.nii.gz	1821-02-08T09:10:00.000006
+func/sub-S27_ses-1_task-FirstBite_bold.nii.gz	1821-02-08T09:21:58.000006
+func/sub-S27_ses-1_task-ToClaireFromSonny_bold.nii.gz	1821-02-08T09:37:18.000006
+func/sub-S27_ses-1_task-LessonLearned_bold.nii.gz	1821-02-08T09:49:21.000006

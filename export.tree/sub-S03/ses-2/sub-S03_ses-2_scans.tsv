@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S03_ses-2_magnitude1.nii.gz	1820-11-11T10:30:00.000000
+fmap/sub-S03_ses-2_magnitude2.nii.gz	1820-11-11T10:30:00.000000
+fmap/sub-S03_ses-2_phasediff.nii.gz	1820-11-11T10:30:00.000006
+func/sub-S03_ses-2_task-Superhero_bold.nii.gz	1820-11-11T10:32:00.000006
+func/sub-S03_ses-2_task-TheSecretNumber_bold.nii.gz	1820-11-11T10:54:28.000006
+func/sub-S03_ses-2_task-BetweenViewings_bold.nii.gz	1820-11-11T11:12:53.000006
+func/sub-S03_ses-2_task-LessonLearned_bold.nii.gz	1820-11-11T11:31:41.000006

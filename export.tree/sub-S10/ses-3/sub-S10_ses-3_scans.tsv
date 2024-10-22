@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S10_ses-3_magnitude1.nii.gz	1820-12-25T10:30:00.000000
+fmap/sub-S10_ses-3_magnitude2.nii.gz	1820-12-25T10:30:00.000000
+fmap/sub-S10_ses-3_phasediff.nii.gz	1820-12-25T10:30:00.000006
+func/sub-S10_ses-3_task-LessonLearned_bold.nii.gz	1820-12-25T10:32:00.000006
+func/sub-S10_ses-3_task-Spaceman_bold.nii.gz	1820-12-25T10:48:28.000006
+func/sub-S10_ses-3_task-FirstBite_bold.nii.gz	1820-12-25T11:07:14.000006
+func/sub-S10_ses-3_task-TheSecretNumber_bold.nii.gz	1820-12-25T11:22:33.000006

@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S13_ses-3_magnitude1.nii.gz	1821-01-01T16:00:00.000000
+fmap/sub-S13_ses-3_magnitude2.nii.gz	1821-01-01T16:00:00.000000
+fmap/sub-S13_ses-3_phasediff.nii.gz	1821-01-01T16:00:00.000006
+func/sub-S13_ses-3_task-Spaceman_bold.nii.gz	1821-01-01T16:02:00.000006
+func/sub-S13_ses-3_task-Chatter_bold.nii.gz	1821-01-01T16:20:56.000006
+func/sub-S13_ses-3_task-ToClaireFromSonny_bold.nii.gz	1821-01-01T16:33:12.000006
+func/sub-S13_ses-3_task-BetweenViewings_bold.nii.gz	1821-01-01T16:45:16.000006

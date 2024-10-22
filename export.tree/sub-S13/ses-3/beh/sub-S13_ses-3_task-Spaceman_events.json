@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Fear": {
+        "Description": "Fear",
+        "Instructions": "Fear is the response to concrete physical and psychological threats. For example, you may experience fear when your/someone\u2019s life, health, or well-being is threatened. Move up the gauge as you feel fearful. Move it down as you feel less fearful."
+    },
+    "Guilt": {
+        "Description": "Guilt",
+        "Instructions": "Guilt is the response when a person regrets having violated agreements, principles, or values. For example, you may experience guilt when some behaviours or situations violate your own values or moral code. Move the gauge up as you feel guity. Move it down as you feel less guilty. "
+    },
+    "Oppose": {
+        "Description": "You wanted to oppose someone or something (situation)",
+        "Instructions": "Move the gauge up if you want to oppose someone, something or the situation as a whole. Move the gauge down if you do not feel an urge to oppose someone or something."
+    },
+    "Calm": {
+        "Description": "Your felt calm",
+        "Instructions": "Calm is the response to quiet and peaceful conditions. For example, you may experience calm when you are in a safe situation. Move the gauge up as you feel more calm. Move it down if you feel more restless. "
+    },
+    "Agent": {
+        "Description": "Agent",
+        "Instructions": "Rate the degree to which the event is caused by a human agent (including personified animals and machines) versus caused by chance. Move the gauge up the more you think the event was caused by a human agent and down the more it is caused by change. Use the middle of the scale if influences are even or if the cause was neither human nor chance."
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}

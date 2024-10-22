@@ -1,0 +1,33 @@
+{
+    "onset": {
+        "Description": "Onset of clip relative to full film file",
+        "unit": "seconds"
+    },
+    "duration": {
+        "Description": "Duration of clip",
+        "unit": "seconds"
+    },
+    "Anger": {
+        "Description": "Anger",
+        "Instructions": "Anger is a feeling of irritation or rage towards another person or situation. Move up the gauge as you feel increasing anger. Move it down as you do not feel angry."
+    },
+    "PleasantSelf": {
+        "Description": "It was unpleasant for you",
+        "Instructions": "Pleasant discribes a situation that was generally positive for you. Move the gauge up the more pleasant you perceive the situation and down as the situation is more unpleasant. You may use the middle of the scale for situation that are neither positive or negative."
+    },
+    "Sad": {
+        "Description": "Sadness",
+        "Instructions": "Sadness is the response to the loss of an object or a person to which you are attached. Move the gauge up as you feel more sad. Move it down as you do not feel sad"
+    },
+    "Suddenly": {
+        "Description": "The event occurred suddenly",
+        "Instructions": "A sudden event occurred without much lead up or warning, the situation changed from one moment to another. Move the gauge up the more surprising and sudden an event occurred."
+    },
+    "Tears": {
+        "Description": "You had tears in your eyes",
+        "Instructions": "You have tears in your eyes, feel your eyes tearing up. Move the gauge up as you perceive tearing in your eyes. Move it down if your eyes are dry, that is no more tears than usual. "
+    },
+    "trial": {
+        "Description": "Clip number"
+    }
+}
