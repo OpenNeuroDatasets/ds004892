@@ -1,0 +1,5 @@
+{
+    "SkullStripped": "true",
+    "source": "fMRIstudy:rawdata/sub-00/ses-0/anat/sub-00_ses-0_T1w.nii.gz",
+    "description": "fsls BET was used to extract the brain from the original T1 image."
+}

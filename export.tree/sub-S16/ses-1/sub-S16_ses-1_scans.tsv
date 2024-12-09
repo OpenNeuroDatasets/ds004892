@@ -1,0 +1,9 @@
+filename	acq_time
+fmap/sub-S16_ses-1_magnitude1.nii.gz	1821-01-22T11:30:00.000000
+fmap/sub-S16_ses-1_magnitude2.nii.gz	1821-01-22T11:30:00.000000
+fmap/sub-S16_ses-1_phasediff.nii.gz	1821-01-22T11:30:00.000006
+anat/sub-S16_ses-1_T1w.nii.gz	1821-01-22T11:32:00.000006
+func/sub-S16_ses-1_task-Rest_bold.nii.gz	1821-01-22T11:40:00.000006
+func/sub-S16_ses-1_task-TheSecretNumber_bold.nii.gz	1821-01-22T11:51:58.000006
+func/sub-S16_ses-1_task-Spaceman_bold.nii.gz	1821-01-22T12:10:23.000006
+func/sub-S16_ses-1_task-TearsOfSteel_bold.nii.gz	1821-01-22T12:29:09.000006

@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S24_ses-4_magnitude1.nii.gz	1821-02-01T10:30:00.000000
+fmap/sub-S24_ses-4_magnitude2.nii.gz	1821-02-01T10:30:00.000000
+fmap/sub-S24_ses-4_phasediff.nii.gz	1821-02-01T10:30:00.000006
+func/sub-S24_ses-4_task-Payload_bold.nii.gz	1821-02-01T10:32:00.000006
+func/sub-S24_ses-4_task-AfterTheRain_bold.nii.gz	1821-02-01T10:54:10.000006
+func/sub-S24_ses-4_task-ToClaireFromSonny_bold.nii.gz	1821-02-01T11:07:49.000006

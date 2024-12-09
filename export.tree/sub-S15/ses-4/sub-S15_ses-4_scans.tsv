@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S15_ses-4_magnitude1.nii.gz	1821-01-12T10:30:00.000000
+fmap/sub-S15_ses-4_magnitude2.nii.gz	1821-01-12T10:30:00.000000
+fmap/sub-S15_ses-4_phasediff.nii.gz	1821-01-12T10:30:00.000006
+func/sub-S15_ses-4_task-LessonLearned_bold.nii.gz	1821-01-12T10:32:00.000006
+func/sub-S15_ses-4_task-Superhero_bold.nii.gz	1821-01-12T10:48:32.000006
+func/sub-S15_ses-4_task-Sintel_bold.nii.gz	1821-01-12T11:11:14.000006

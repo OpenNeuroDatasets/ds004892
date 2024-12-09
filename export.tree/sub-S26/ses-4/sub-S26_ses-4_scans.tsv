@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S26_ses-4_magnitude1.nii.gz	1821-01-02T10:30:00.000000
+fmap/sub-S26_ses-4_magnitude2.nii.gz	1821-01-02T10:30:00.000000
+fmap/sub-S26_ses-4_phasediff.nii.gz	1821-01-02T10:30:00.000006
+func/sub-S26_ses-4_task-Chatter_bold.nii.gz	1821-01-02T10:32:00.000006
+func/sub-S26_ses-4_task-ToClaireFromSonny_bold.nii.gz	1821-01-02T10:44:07.000006
+func/sub-S26_ses-4_task-Payload_bold.nii.gz	1821-01-02T10:56:10.000006
+func/sub-S26_ses-4_task-YouAgain_bold.nii.gz	1821-01-02T11:18:19.000006

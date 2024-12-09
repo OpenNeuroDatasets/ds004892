@@ -1,0 +1,9 @@
+filename	acq_time
+fmap/sub-S28_ses-1_magnitude1.nii.gz	1821-02-08T10:30:00.000000
+fmap/sub-S28_ses-1_magnitude2.nii.gz	1821-02-08T10:30:00.000000
+fmap/sub-S28_ses-1_phasediff.nii.gz	1821-02-08T10:30:00.000006
+anat/sub-S28_ses-1_T1w.nii.gz	1821-02-08T10:32:00.000006
+func/sub-S28_ses-1_task-Rest_bold.nii.gz	1821-02-08T10:40:00.000006
+func/sub-S28_ses-1_task-Spaceman_bold.nii.gz	1821-02-08T10:51:58.000006
+func/sub-S28_ses-1_task-BetweenViewings_bold.nii.gz	1821-02-08T11:10:49.000006
+func/sub-S28_ses-1_task-FirstBite_bold.nii.gz	1821-02-08T11:29:37.000006
