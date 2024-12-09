@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S15_ses-3_magnitude1.nii.gz	1821-01-12T10:30:00.000000
-fmap/sub-S15_ses-3_magnitude2.nii.gz	1821-01-12T10:30:00.000000
-fmap/sub-S15_ses-3_phasediff.nii.gz	1821-01-12T10:30:00.000006
-func/sub-S15_ses-3_task-TheSecretNumber_bold.nii.gz	1821-01-12T10:32:00.000006
-func/sub-S15_ses-3_task-BigBuckBunny_bold.nii.gz	1821-01-12T10:50:25.000006
-func/sub-S15_ses-3_task-AfterTheRain_bold.nii.gz	1821-01-12T11:03:55.000006
-func/sub-S15_ses-3_task-YouAgain_bold.nii.gz	1821-01-12T11:17:31.000006
-func/sub-S15_ses-3_task-Chatter_bold.nii.gz	1821-01-12T11:36:10.000006

@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S04_ses-1_magnitude1.nii.gz	1820-11-23T09:00:00.000000
-fmap/sub-S04_ses-1_magnitude2.nii.gz	1820-11-23T09:00:00.000000
-fmap/sub-S04_ses-1_phasediff.nii.gz	1820-11-23T09:00:00.000006
-anat/sub-S04_ses-1_T1w.nii.gz	1820-11-23T09:02:00.000006
-func/sub-S04_ses-1_task-Rest_bold.nii.gz	1820-11-23T09:10:00.000006
-func/sub-S04_ses-1_task-TearsOfSteel_bold.nii.gz	1820-11-23T09:21:58.000006
-func/sub-S04_ses-1_task-TheSecretNumber_bold.nii.gz	1820-11-23T09:37:08.000006
-func/sub-S04_ses-1_task-BetweenViewings_bold.nii.gz	1820-11-23T09:55:32.000006

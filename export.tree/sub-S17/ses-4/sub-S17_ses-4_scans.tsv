@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S17_ses-4_magnitude1.nii.gz	1821-01-22T10:30:00.000000
-fmap/sub-S17_ses-4_magnitude2.nii.gz	1821-01-22T10:30:00.000000
-fmap/sub-S17_ses-4_phasediff.nii.gz	1821-01-22T10:30:00.000006
-func/sub-S17_ses-4_task-BigBuckBunny_bold.nii.gz	1821-01-22T10:32:00.000006
-func/sub-S17_ses-4_task-Sintel_bold.nii.gz	1821-01-22T10:45:30.000006
-func/sub-S17_ses-4_task-Payload_bold.nii.gz	1821-01-22T11:02:53.000006
-func/sub-S17_ses-4_task-ToClaireFromSonny_bold.nii.gz	1821-01-22T11:25:02.000006
