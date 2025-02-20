@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S31_ses-2_magnitude1.nii.gz	1821-01-07T14:30:00.000000
+fmap/sub-S31_ses-2_magnitude2.nii.gz	1821-01-07T14:30:00.000000
+fmap/sub-S31_ses-2_phasediff.nii.gz	1821-01-07T14:30:00.000006
+func/sub-S31_ses-2_task-Spaceman_bold.nii.gz	1821-01-07T14:32:00.000006
+func/sub-S31_ses-2_task-Payload_bold.nii.gz	1821-01-07T14:50:46.000006
+func/sub-S31_ses-2_task-Chatter_bold.nii.gz	1821-01-07T15:12:55.000006

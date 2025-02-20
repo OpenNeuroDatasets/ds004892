@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S20_ses-4_magnitude1.nii.gz	1821-01-22T16:00:00.000000
+fmap/sub-S20_ses-4_magnitude2.nii.gz	1821-01-22T16:00:00.000000
+fmap/sub-S20_ses-4_phasediff.nii.gz	1821-01-22T16:00:00.000006
+func/sub-S20_ses-4_task-Payload_bold.nii.gz	1821-01-22T16:02:00.000006
+func/sub-S20_ses-4_task-YouAgain_bold.nii.gz	1821-01-22T16:24:09.000006
+func/sub-S20_ses-4_task-BigBuckBunny_bold.nii.gz	1821-01-22T16:42:48.000006

@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S06_ses-2_magnitude1.nii.gz	1820-12-16T09:00:00.000000
+fmap/sub-S06_ses-2_magnitude2.nii.gz	1820-12-16T09:00:00.000000
+fmap/sub-S06_ses-2_phasediff.nii.gz	1820-12-16T09:00:00.000006
+func/sub-S06_ses-2_task-Spaceman_bold.nii.gz	1820-12-16T09:02:00.000006
+func/sub-S06_ses-2_task-Chatter_bold.nii.gz	1820-12-16T09:20:57.000006
+func/sub-S06_ses-2_task-AfterTheRain_bold.nii.gz	1820-12-16T09:33:06.000006
+func/sub-S06_ses-2_task-ToClaireFromSonny_bold.nii.gz	1820-12-16T09:46:45.000006

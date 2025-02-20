@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S13_ses-2_magnitude1.nii.gz	1821-01-02T16:00:00.000000
+fmap/sub-S13_ses-2_magnitude2.nii.gz	1821-01-02T16:00:00.000000
+fmap/sub-S13_ses-2_phasediff.nii.gz	1821-01-02T16:00:00.000006
+func/sub-S13_ses-2_task-Payload_bold.nii.gz	1821-01-02T16:02:00.000006
+func/sub-S13_ses-2_task-BigBuckBunny_bold.nii.gz	1821-01-02T16:24:09.000006
+func/sub-S13_ses-2_task-TearsOfSteel_bold.nii.gz	1821-01-02T16:37:40.000006

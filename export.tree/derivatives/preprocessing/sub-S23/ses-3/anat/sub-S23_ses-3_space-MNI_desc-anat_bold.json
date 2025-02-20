@@ -1,0 +1,5 @@
+{
+    "SkullStripped": "true",
+    "source": "",
+    "description": "Transformation matrix from anatomical to MNI. Registration to high-resolution structural, standard space and the first functional volume of each subject was carried out using FLIRT (Jenkinson and Smith; 2001; Jenkinson et al., 2002)"
+}

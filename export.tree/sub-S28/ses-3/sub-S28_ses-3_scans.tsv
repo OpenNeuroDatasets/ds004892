@@ -1,0 +1,8 @@
+filename	acq_time
+fmap/sub-S28_ses-3_magnitude1.nii.gz	1821-02-08T10:30:00.000000
+fmap/sub-S28_ses-3_magnitude2.nii.gz	1821-02-08T10:30:00.000000
+fmap/sub-S28_ses-3_phasediff.nii.gz	1821-02-08T10:30:00.000006
+func/sub-S28_ses-3_task-TearsOfSteel_bold.nii.gz	1821-02-08T10:32:00.000006
+func/sub-S28_ses-3_task-AfterTheRain_bold.nii.gz	1821-02-08T10:47:09.000006
+func/sub-S28_ses-3_task-BigBuckBunny_bold.nii.gz	1821-02-08T11:00:45.000006
+func/sub-S28_ses-3_task-YouAgain_bold.nii.gz	1821-02-08T11:14:17.000006

@@ -1,0 +1,7 @@
+filename	acq_time
+fmap/sub-S32_ses-4_magnitude1.nii.gz	1821-01-22T13:00:00.000000
+fmap/sub-S32_ses-4_magnitude2.nii.gz	1821-01-22T13:00:00.000000
+fmap/sub-S32_ses-4_phasediff.nii.gz	1821-01-22T13:00:00.000006
+func/sub-S32_ses-4_task-Superhero_bold.nii.gz	1821-01-22T13:02:00.000006
+func/sub-S32_ses-4_task-BigBuckBunny_bold.nii.gz	1821-01-22T13:24:29.000006
+func/sub-S32_ses-4_task-TheSecretNumber_bold.nii.gz	1821-01-22T13:38:00.000006
