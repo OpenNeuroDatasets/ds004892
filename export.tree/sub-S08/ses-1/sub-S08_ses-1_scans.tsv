@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S08_ses-1_magnitude1.nii.gz	1820-12-14T11:45:00.000000
-fmap/sub-S08_ses-1_magnitude2.nii.gz	1820-12-14T11:45:00.000000
-fmap/sub-S08_ses-1_phasediff.nii.gz	1820-12-14T11:45:00.000006
-anat/sub-S08_ses-1_T1w.nii.gz	1820-12-14T11:47:00.000006
-func/sub-S08_ses-1_task-Rest_bold.nii.gz	1820-12-14T11:55:00.000006
-func/sub-S08_ses-1_task-TheSecretNumber_bold.nii.gz	1820-12-14T12:06:58.000006
-func/sub-S08_ses-1_task-FirstBite_bold.nii.gz	1820-12-14T12:25:23.000006

@@ -1,7 +1,0 @@
-filename	acq_time
-fmap/sub-S01_ses-4_magnitude1.nii.gz	1820-10-29T09:00:00.000000
-fmap/sub-S01_ses-4_magnitude2.nii.gz	1820-10-29T09:00:00.000000
-fmap/sub-S01_ses-4_phasediff.nii.gz	1820-10-29T09:00:00.000006
-func/sub-S01_ses-4_task-Sintel_bold.nii.gz	1820-10-29T09:02:00.000006
-func/sub-S01_ses-4_task-TearsOfSteel_bold.nii.gz	1820-10-29T09:19:25.000006
-func/sub-S01_ses-4_task-Superhero_bold.nii.gz	1820-10-29T09:34:34.000006

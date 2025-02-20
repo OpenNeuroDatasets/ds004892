@@ -1,7 +1,0 @@
-filename	acq_time
-fmap/sub-S13_ses-4_magnitude1.nii.gz	1821-01-01T16:00:00.000000
-fmap/sub-S13_ses-4_magnitude2.nii.gz	1821-01-01T16:00:00.000000
-fmap/sub-S13_ses-4_phasediff.nii.gz	1821-01-01T16:00:00.000006
-func/sub-S13_ses-4_task-FirstBite_bold.nii.gz	1821-01-01T16:02:00.000006
-func/sub-S13_ses-4_task-TheSecretNumber_bold.nii.gz	1821-01-01T16:17:19.000006
-func/sub-S13_ses-4_task-Superhero_bold.nii.gz	1821-01-01T16:35:44.000006

@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S19_ses-2_magnitude1.nii.gz	1821-01-23T14:30:00.000000
-fmap/sub-S19_ses-2_magnitude2.nii.gz	1821-01-23T14:30:00.000000
-fmap/sub-S19_ses-2_phasediff.nii.gz	1821-01-23T14:30:00.000006
-func/sub-S19_ses-2_task-TheSecretNumber_bold.nii.gz	1821-01-23T14:32:00.000006
-func/sub-S19_ses-2_task-TearsOfSteel_bold.nii.gz	1821-01-23T14:50:25.000006
-func/sub-S19_ses-2_task-FirstBite_bold.nii.gz	1821-01-23T15:05:34.000006
-func/sub-S19_ses-2_task-BigBuckBunny_bold.nii.gz	1821-01-23T15:20:54.000006
-func/sub-S19_ses-2_task-Chatter_bold.nii.gz	1821-01-23T15:34:24.000006

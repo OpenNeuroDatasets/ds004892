@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S30_ses-2_magnitude1.nii.gz	1821-02-12T14:30:00.000000
-fmap/sub-S30_ses-2_magnitude2.nii.gz	1821-02-12T14:30:00.000000
-fmap/sub-S30_ses-2_phasediff.nii.gz	1821-02-12T14:30:00.000006
-func/sub-S30_ses-2_task-AfterTheRain_bold.nii.gz	1821-02-12T14:32:00.000006
-func/sub-S30_ses-2_task-BetweenViewings_bold.nii.gz	1821-02-12T14:45:36.000006
-func/sub-S30_ses-2_task-BigBuckBunny_bold.nii.gz	1821-02-12T15:04:24.000006
-func/sub-S30_ses-2_task-FirstBite_bold.nii.gz	1821-02-12T15:17:55.000006
-func/sub-S30_ses-2_task-Chatter_bold.nii.gz	1821-02-12T15:33:14.000006

@@ -1,5 +1,0 @@
-{
-    "SkullStripped": "true",
-    "source": "fMRIstudy:rawdata/sub-00/ses-0/func/sub-00_ses-0_task-FILM_bold.nii.gz",
-    "description": "Motion parameters from FEAT preprocessing"
-}

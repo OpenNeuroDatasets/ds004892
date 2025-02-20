@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S23_ses-4_magnitude1.nii.gz	1821-02-01T09:00:00.000000
-fmap/sub-S23_ses-4_magnitude2.nii.gz	1821-02-01T09:00:00.000000
-fmap/sub-S23_ses-4_phasediff.nii.gz	1821-02-01T09:00:00.000006
-func/sub-S23_ses-4_task-BetweenViewings_bold.nii.gz	1821-02-01T09:02:00.000006
-func/sub-S23_ses-4_task-FirstBite_bold.nii.gz	1821-02-01T09:20:51.000006
-func/sub-S23_ses-4_task-Sintel_bold.nii.gz	1821-02-01T09:36:10.000006
-func/sub-S23_ses-4_task-LessonLearned_bold.nii.gz	1821-02-01T09:53:35.000006

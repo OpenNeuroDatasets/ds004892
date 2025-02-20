@@ -1,9 +1,0 @@
-filename	acq_time
-fmap/sub-S08_ses-3_magnitude1.nii.gz	1820-12-14T11:45:00.000000
-fmap/sub-S08_ses-3_magnitude2.nii.gz	1820-12-14T11:45:00.000000
-fmap/sub-S08_ses-3_phasediff.nii.gz	1820-12-14T11:45:00.000006
-func/sub-S08_ses-3_task-Sintel_bold.nii.gz	1820-12-14T11:47:00.000006
-func/sub-S08_ses-3_task-Superhero_bold.nii.gz	1820-12-14T12:04:25.000006
-func/sub-S08_ses-3_task-BigBuckBunny_bold.nii.gz	1820-12-14T12:26:56.000006
-func/sub-S08_ses-3_task-TearsOfSteel_bold.nii.gz	1820-12-14T12:40:28.000006
-func/sub-S08_ses-3_task-ToClaireFromSonny_bold.nii.gz	1820-12-14T12:55:37.000006

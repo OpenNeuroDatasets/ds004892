@@ -1,3 +1,0 @@
-Onset validation was performed through a visual analysis of preprocessed BOLD time courses across all subjects centred on film onset (time = 0). We plotted the average of regional signals from 7Networks_LH_Vis_5 and 7Networks_RH_Vis_4 from the Schaefer 100 parcellation (Schaefer et al., 2018). Onset and offset were displayed as measured with the addition of a 5s lag to account for the delayed hemodynamic response. 
-
-Schaefer A, Kong R, Gordon EM, Laumann TO, Zuo XN, Holmes AJ, Eickhoff SB, Yeo BTT. Local-Global Parcellation of the Human Cerebral Cortex from Intrinsic Functional Connectivity MRI. Cereb Cortex. 2018 Sep 1;28(9):3095-3114. doi: 10.1093/cercor/bhx179. PMID: 28981612; PMCID: PMC6095216.

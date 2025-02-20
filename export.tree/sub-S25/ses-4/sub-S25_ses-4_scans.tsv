@@ -1,8 +1,0 @@
-filename	acq_time
-fmap/sub-S25_ses-4_magnitude1.nii.gz	1821-01-02T09:00:00.000000
-fmap/sub-S25_ses-4_magnitude2.nii.gz	1821-01-02T09:00:00.000000
-fmap/sub-S25_ses-4_phasediff.nii.gz	1821-01-02T09:00:00.000006
-func/sub-S25_ses-4_task-FirstBite_bold.nii.gz	1821-01-02T09:02:00.000006
-func/sub-S25_ses-4_task-AfterTheRain_bold.nii.gz	1821-01-02T09:17:20.000006
-func/sub-S25_ses-4_task-LessonLearned_bold.nii.gz	1821-01-02T09:30:56.000006
-func/sub-S25_ses-4_task-Superhero_bold.nii.gz	1821-01-02T09:47:24.000006
